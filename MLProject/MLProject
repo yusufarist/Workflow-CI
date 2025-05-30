@@ -1,0 +1,7 @@
+name: heart-disease-prediction
+conda_env: conda.yaml
+entry_points:
+  main:
+    parameters:
+      data_dir: {type: string, default: "heart_preprocessing"}
+    command: "python modelling.py"
