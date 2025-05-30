@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/6069db23f1434efdb855db31be2e7903/artifacts
+end_time: 1748591616360
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6069db23f1434efdb855db31be2e7903
+run_name: sassy-mule-986
+run_uuid: 6069db23f1434efdb855db31be2e7903
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748591283742
+status: 4
+tags: []
+user_id: runner
